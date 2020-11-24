@@ -5,8 +5,8 @@ fetch ("http://www.santos.sp.gov.br/")
 let dom = new DOMParser();
 let doc = dom.paeseFromString(x,"text/html");
 
-docquerySlectorAll(".valor-salario-servidor")
-.forEach(div => document.body.appendChild(div));
+docquerySlectorAll(".A951ec68aa49144e7b3918a6e16417db552")
+.forEach(div => document.body.appendChild(DENOMINAÇÃO CARGO/ FUNÇÃO));
 }
 )
 .cach(e => document.write(e))
